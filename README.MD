@@ -2,7 +2,7 @@
 First one will be just an open street map, second - will show population in different countries, third - will show 
 locations where movies were made in a certain year, chosen by the user.
 How to use it: the user needs to type in a year that he wants to have information about and to type amount of movies he
-wants to be shown on the map. If the user gives invalid input, the program will stop running and will givw this message:
+wants to be shown on the map. If the user gives invalid input, the program will stop running and will give this message:
 "Your input was incorrect. Please restart the program again."  
 To see the result the user needs to open the saved file "MyMap.html"
 
